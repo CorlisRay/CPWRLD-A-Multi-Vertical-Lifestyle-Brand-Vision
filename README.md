@@ -1,5 +1,7 @@
-# CPWRLD🌏: A-Multi-Vertical-Lifestyle-Brand-Vision
+## CPWRLD🌏
+
 ![CPWRLD Logo](https://via.placeholder.com/350x100.png?text=CPWRLD+Logo)
+
 **CPWRLD🌏** is a multi-vertical lifestyle brand that blends fashion, food, and modern retail experiences. Founded by **CPwrld** and led by CEO **Promise Agida Oluwagbenga**, CPWRLD aims to create a global brand that connects style, taste, and innovation.
 
 ---
