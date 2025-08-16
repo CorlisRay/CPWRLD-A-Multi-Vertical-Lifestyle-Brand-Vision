@@ -1,4 +1,4 @@
-## CPWRLD🌏
+
 
 ![CPWRLD Logo](https://via.placeholder.com/350x100.png?text=CPWRLD+Logo)
 
